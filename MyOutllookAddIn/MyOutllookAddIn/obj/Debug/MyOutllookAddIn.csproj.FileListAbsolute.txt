@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\obj\Debug\MyOutllookAddIn.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\obj\Debug\MyOutllookAddIn.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\obj\Debug\MyOutllookAddIn.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\MyOutllookAddIn.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\MyOutllookAddIn.pdb
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\MyOutllookAddIn.dll.manifest
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\MyOutllookAddIn.vsto
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\obj\Debug\MyOutllookAddIn.dll
+c:\users\admin\documents\visual studio 2017\Projects\MyOutllookAddIn\MyOutllookAddIn\obj\Debug\MyOutllookAddIn.pdb
